@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xiaoyuer/mylearn/gps_gs_plot/csv/include/csv.h
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+cstring
+-
+sstream
+-
+
+/home/xiaoyuer/mylearn/gps_gs_plot/csv/src/csv.cpp
+../include/csv.h
+/home/xiaoyuer/mylearn/gps_gs_plot/csv/include/csv.h
+

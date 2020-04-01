@@ -1,0 +1,3 @@
+/home/xiaoyuer/mylearn/gps_gs_plot/gs/CMakeFiles/rebuild_cache.dir
+/home/xiaoyuer/mylearn/gps_gs_plot/gs/CMakeFiles/edit_cache.dir
+/home/xiaoyuer/mylearn/gps_gs_plot/gs/CMakeFiles/gs.dir
